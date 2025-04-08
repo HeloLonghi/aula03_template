@@ -1,6 +1,4 @@
 <script setup>
-  
-
     const nome = `Heloisa`
     const idade = 16
 
@@ -81,7 +79,7 @@ h2 {
 }
 
 .valor {
-  border-radius: 20px;
+  border-radius: 10px;
   text-align: center;
 }
 
